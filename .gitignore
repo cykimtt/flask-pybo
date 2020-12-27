@@ -1,0 +1,6 @@
+.idea
+.vscode
+pybo.db
+*.pyc
+workspace.code-workspace
+__pycache__

@@ -2,5 +2,6 @@
 .vscode
 pybo.db
 *.pyc
-workspace.code-workspace
 __pycache__
+logs
+workspace.code-workspace

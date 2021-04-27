@@ -48,4 +48,6 @@ def create_app():
     # 오류페이지
     app.register_error_handler(404, page_not_found)
 
+    # 수정이 가능해?
+    
     return app
